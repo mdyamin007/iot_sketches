@@ -35,8 +35,8 @@ It feeds your fish at scheduled times, lets you trigger manual feeds from a buil
 - Common ground between servo and NodeMCU
 
 **Connections:**
-- Servo **VCC** → 5V external supply  
-- Servo **GND** → Common ground (with NodeMCU)  
+- Servo **VCC** → 5V 
+- Servo **GND** → GND
 - Servo **Signal** → NodeMCU `D4 (GPIO2)`
 
 ---
